@@ -1,5 +1,5 @@
 {
-  "name": "readme.js",
+  "name": "readme-generator",
   "version": "1.0.0",
   "description": "this module is use to create a readme.mdr file for your project ",
   "main": "index.js",
@@ -20,7 +20,7 @@
   "author": "lakhan sharma",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/izroth/readme.js/issues"
+    "url": "https://github.com/izroth/readme-generator/issues"
   },
-  "homepage": "https://github.com/izroth/readme.js#readme"
+  "homepage": "https://github.com/izroth/readme-generator#readme"
 }
