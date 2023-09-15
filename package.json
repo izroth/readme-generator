@@ -1,0 +1,26 @@
+{
+  "name": "readme.js",
+  "version": "1.0.0",
+  "description": "this module is use to create a readme.mdr file for your project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izroth/readme.js.git"
+  },
+  "keywords": [
+    "node",
+    "backend",
+    "readme.md",
+    "readme",
+    "file"
+  ],
+  "author": "lakhan sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/izroth/readme.js/issues"
+  },
+  "homepage": "https://github.com/izroth/readme.js#readme"
+}
